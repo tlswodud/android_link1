@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/test1"
+        android:title="Export to PDF" />
+    <item
+        android:id="@+id/test2"
+        android:title="Save" />
+</menu>
